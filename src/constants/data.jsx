@@ -2,7 +2,7 @@ export const ENDPOINT = "https://formspree.io/f/mbggbpeq";
 export const CONTACT_EMAIL = "blessmannewton0@gmail.com";
 export const CONTACT_PHONE = "+233208418980";
 
-export const LAUNCH_DATE = new Date(2027, 0, 19);
+export const LAUNCH_DATE = new Date(2027, 0, 5);
 
 export const SERVICES = [
   {
